@@ -7,7 +7,7 @@
 
 # Vehicle
 ![cart](./GIF/cart.gif)
-![Kart](./GIF/Kart.gif)
+![Kart](./GIF/kart.gif)
 ![bus](./GIF/bus.gif)
 
 # Power ups
