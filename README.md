@@ -9,8 +9,7 @@ Help passengers reach their flights and ensure safe delivery of luggage on the r
 ## Challenges 
 Navigate through the airport, and avoid obstacles like busses and planes while delivering.
 
-![busEnemy](./GIF/busEnemy.gif)
-![airplane](./GIF/airplane.gif)
+![busEnemy](./GIF/busEnemy.gif)![airplane](./GIF/airplane.gif)
 
 ## Interactions
 Guide passengers using vehicles and power-ups to speed up transport.
