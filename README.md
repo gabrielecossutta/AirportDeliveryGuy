@@ -21,32 +21,32 @@ Load luggage onto planes using vehicles or throw them directly onto conveyor bel
 ![throw](./GIF/throw.gif)
 
 # Power-Ups
-### Speed Boost
+### Speed Boost:
 Increases movement speed, allowing for faster transport of passengers or luggage.
 
 ![speed](./GIF/speed.gif)
-### Strength
+### Strength:
 Increases carrying capacity, allowing the player to transport multiple luggage or passengers at once.
 
 ![strength](./GIF/strength.gif)
 
-### Magnetism
+### Magnetism:
 Attracts nearby luggage, making it easier to collect items without direct contact.
 
 ![magnetic](./GIF/magnetic.gif)
 
 # Vehicles
-### Cart
+### Cart:
 Basic vehicle with low speed, suitable for short distances.
 
 ![cart](./GIF/cart.gif)
 
-### Kart
+### Kart:
 The Fastest vehicle, ideal for agile and large movements of luggage.
 
 ![Kart](./GIF/kart.gif)
 
-### Bus
+### Bus:
 High capacity, best for transporting large numbers of passengers over longer distances.
 
 ![bus](./GIF/bus.gif)
