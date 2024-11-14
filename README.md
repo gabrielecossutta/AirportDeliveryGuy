@@ -1,5 +1,8 @@
+This game was created for a game Jam theme Travel
+
 # AirportDeliveryGuy
- 
+In AirportDeliveryGuy, players step into the role of an airport worker with the task of moving passengers and luggage to their respective planes. With unique power-ups, various vehicles, this game captures the fast-paced world of airport logistics.
+
 
 [**AirportDeliveryGuy**](#AirportDeliveryGuy)
 
