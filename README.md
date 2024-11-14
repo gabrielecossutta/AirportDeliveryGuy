@@ -4,7 +4,7 @@ In AirportDeliveryGuy, players step into the role of an airport worker with the 
 ![menu](./GIF/menu.gif)
 
 ## Goal
-Help passengers reach their flights and ensure safe delivery of luggage on the respective plane. Deliver passengers and baggage to maximize your score and receive money to purchase [**Power-Ups**](#Power-Ups:) and [**Vehicles**](#Vehicles:).
+Help passengers reach their flights and ensure safe delivery of luggage on the respective plane. Deliver passengers and baggage to maximize your score and receive money to purchase [**Power-Ups**](#Power-Ups) and [**Vehicles**](#Vehicles).
 
 ## Challenges 
 Navigate through the airport, and avoid obstacles like busses and planes while delivering.
@@ -20,7 +20,7 @@ Load luggage onto planes using vehicles or throw them directly onto conveyor bel
 
 ![throw](./GIF/throw.gif)
 
-# Power-Ups:
+# Power-Ups :
 ### Speed Boost
 Increases movement speed, allowing for faster transport of passengers or luggage.
 
@@ -35,7 +35,7 @@ Attracts nearby luggage, making it easier to collect items without direct contac
 
 ![magnetic](./GIF/magnetic.gif)
 
-# Vehicles:
+# Vehicles :
 ### Cart
 Basic vehicle with low speed, suitable for short distances.
 
