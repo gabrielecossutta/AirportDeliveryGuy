@@ -1,7 +1,7 @@
 # AirportDeliveryGuy
 In AirportDeliveryGuy, players step into the role of an airport worker with the task of moving passengers and luggage to their respective planes. With unique power-ups, various vehicles, this game captures the fast-paced world of airport logistics.
 
-<sub>This game was created for 6 days game Jam theme Travel, with our Pepperoni team [Entoni](https://github.com/Entoni1122)  [Ntn28](https://github.com/Ntn28) [bsam20](https://github.com/bsam20) [DevAlexii](https://github.com/DevAlexii)</sub>
+This game was created for 6 days game Jam theme Travel, with our Pepperoni team [Entoni](https://github.com/Entoni1122)  [Ntn28](https://github.com/Ntn28) [bsam20](https://github.com/bsam20) [DevAlexii](https://github.com/DevAlexii)
 
 ![menu](./GIF/menu.gif)
 
